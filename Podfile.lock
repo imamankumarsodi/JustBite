@@ -1,0 +1,122 @@
+PODS:
+  - Alamofire (4.8.2)
+  - AlamofireImage (3.5.2):
+    - Alamofire (~> 4.8)
+  - CollapsibleTableSectionViewController (1.0.1)
+  - Cosmos (19.0.3)
+  - Crashlytics (3.12.0):
+    - Fabric (~> 1.9.0)
+  - Fabric (1.9.0)
+  - GoogleMaps (3.1.0):
+    - GoogleMaps/Maps (= 3.1.0)
+  - GoogleMaps/Base (3.1.0)
+  - GoogleMaps/Maps (3.1.0):
+    - GoogleMaps/Base
+  - KYDrawerController (2.1.0)
+  - MaterialComponents/AnimationTiming (54.13.0)
+  - MaterialComponents/Palettes (54.13.0)
+  - MaterialComponents/private/Application (54.13.0)
+  - MaterialComponents/private/Math (54.13.0)
+  - MaterialComponents/schemes/Color (54.13.0)
+  - MaterialComponents/schemes/Typography (54.13.0)
+  - MaterialComponents/TextFields (54.13.0):
+    - MaterialComponents/AnimationTiming
+    - MaterialComponents/Palettes
+    - MaterialComponents/private/Math
+    - MaterialComponents/Typography
+    - MDFInternationalization
+  - "MaterialComponents/TextFields+Extensions (54.13.0)":
+    - "MaterialComponents/TextFields+Extensions/ColorThemer (= 54.13.0)"
+    - "MaterialComponents/TextFields+Extensions/FontThemer (= 54.13.0)"
+    - "MaterialComponents/TextFields+Extensions/TypographyThemer (= 54.13.0)"
+  - "MaterialComponents/TextFields+Extensions/ColorThemer (54.13.0)":
+    - MaterialComponents/TextFields
+    - MaterialComponents/Themes
+  - "MaterialComponents/TextFields+Extensions/FontThemer (54.13.0)":
+    - MaterialComponents/TextFields
+    - MaterialComponents/Themes
+  - "MaterialComponents/TextFields+Extensions/TypographyThemer (54.13.0)":
+    - MaterialComponents/schemes/Typography
+    - MaterialComponents/TextFields
+  - MaterialComponents/Themes (54.13.0):
+    - MaterialComponents/schemes/Color
+    - MaterialComponents/schemes/Typography
+  - MaterialComponents/Typography (54.13.0):
+    - MaterialComponents/private/Application
+  - MDFInternationalization (2.0.0)
+  - ObjcExceptionBridging (1.0.1):
+    - ObjcExceptionBridging/ObjcExceptionBridging (= 1.0.1)
+  - ObjcExceptionBridging/ObjcExceptionBridging (1.0.1)
+  - ObjectMapper (3.4.2)
+  - PromiseKit (6.8.4):
+    - PromiseKit/CorePromise (= 6.8.4)
+    - PromiseKit/Foundation (= 6.8.4)
+    - PromiseKit/UIKit (= 6.8.4)
+  - PromiseKit/CorePromise (6.8.4)
+  - PromiseKit/Foundation (6.8.4):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.8.4):
+    - PromiseKit/CorePromise
+  - SwiftyJSON (4.0.0)
+  - TPKeyboardAvoiding (1.3.2)
+  - XCGLogger (6.1.0):
+    - XCGLogger/Core (= 6.1.0)
+  - XCGLogger/Core (6.1.0):
+    - ObjcExceptionBridging
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - AlamofireImage
+  - CollapsibleTableSectionViewController (~> 1.0.0)
+  - Cosmos (~> 19.0)
+  - Crashlytics
+  - Fabric
+  - GoogleMaps
+  - KYDrawerController
+  - "MaterialComponents/TextFields+Extensions"
+  - ObjectMapper
+  - PromiseKit (~> 6.0)
+  - SwiftyJSON (~> 4.0.0-alpha.1)
+  - TPKeyboardAvoiding
+  - XCGLogger (~> 6.1.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - CollapsibleTableSectionViewController
+    - Cosmos
+    - Crashlytics
+    - Fabric
+    - GoogleMaps
+    - KYDrawerController
+    - MaterialComponents
+    - MDFInternationalization
+    - ObjcExceptionBridging
+    - ObjectMapper
+    - PromiseKit
+    - SwiftyJSON
+    - TPKeyboardAvoiding
+    - XCGLogger
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  AlamofireImage: 63cfe3baf1370be6c498149687cf6db3e3b00999
+  CollapsibleTableSectionViewController: c41694de812a1039c5f8581c934cf0fc38e4e871
+  Cosmos: a6fb17284281fa12cf4c85c2efecd440a215ec44
+  Crashlytics: 07fb167b1694128c1c9a5a5cc319b0e9c3ca0933
+  Fabric: f988e33c97f08930a413e08123064d2e5f68d655
+  GoogleMaps: 5c13302e6fe6bb6e686b267196586b91cd594225
+  KYDrawerController: baad0e63b09c0cb564bd48f0f7f70f45d9176ebc
+  MaterialComponents: 3399c262334c35e4994a7b25ad1e9a3ce48dce07
+  MDFInternationalization: 010097556d6b09d2c4ea38e0820ea6d37be6a314
+  ObjcExceptionBridging: c30e00eb3700467e695faeea30e26e18bd445001
+  ObjectMapper: 0d4402610f4e468903ae64629eec4784531e5c51
+  PromiseKit: 51794a832647e7b819336dc2279039ce9f1cc49b
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  TPKeyboardAvoiding: cb69d5ddbe90ce0170e4bc2db1e5e41d4a3ad9a4
+  XCGLogger: 7f7f43f15dfe3a305fa1342b7dc29af656289abd
+
+PODFILE CHECKSUM: d97500b21ab84a7fb202219269aca2005e75f35c
+
+COCOAPODS: 1.6.1
